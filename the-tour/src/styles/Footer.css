@@ -1,0 +1,15 @@
+div.footer {
+    background-color: rgba(173, 170, 163, 1);
+    padding-top: 0px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+  }
+  
+  footer {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(173, 170, 163, 1);
+    color: rgb(0, 0, 0);
+  }
+  

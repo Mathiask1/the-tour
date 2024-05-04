@@ -1,0 +1,11 @@
+div.frontPage-Body {
+    max-width: 1000px;
+    width: 100%;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+  
+    align-items: center;
+    text-align: center;
+}
