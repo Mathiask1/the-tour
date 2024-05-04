@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-tour/static/css/main.60098d3a.css",
-    "main.js": "/the-tour/static/js/main.49b1672c.js",
+    "main.js": "/the-tour/static/js/main.dd6116b7.js",
     "static/js/453.e840b7ce.chunk.js": "/the-tour/static/js/453.e840b7ce.chunk.js",
     "static/media/tour_bg.jpg": "/the-tour/static/media/tour_bg.5f4bf655371305687110.jpg",
     "static/media/bg.jpg": "/the-tour/static/media/bg.5a3c92bcb44dc517a586.jpg",
@@ -9,11 +9,11 @@
     "static/media/1.jpg": "/the-tour/static/media/1.00b367073ba779ad2fe2.jpg",
     "index.html": "/the-tour/index.html",
     "main.60098d3a.css.map": "/the-tour/static/css/main.60098d3a.css.map",
-    "main.49b1672c.js.map": "/the-tour/static/js/main.49b1672c.js.map",
+    "main.dd6116b7.js.map": "/the-tour/static/js/main.dd6116b7.js.map",
     "453.e840b7ce.chunk.js.map": "/the-tour/static/js/453.e840b7ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60098d3a.css",
-    "static/js/main.49b1672c.js"
+    "static/js/main.dd6116b7.js"
   ]
 }
